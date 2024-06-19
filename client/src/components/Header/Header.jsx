@@ -1,5 +1,5 @@
 import React from 'react';
-import logoImg from "../../assets/images/UEFA Euro 2024 Germany.png";
+import logoImg from "../../assets/images/uefaeuro2024_header.jpeg";
 import "./Header.scss";
 
 function Header() {
