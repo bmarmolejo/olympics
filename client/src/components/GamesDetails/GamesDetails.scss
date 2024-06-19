@@ -11,9 +11,21 @@
         padding:1rem 2rem;
         display: flex;
         flex-direction: column;
+        justify-content: center;
+    }
+
+    &__match {
+        color: white;
+    }
+
+    &__location {
+        color: white;
     }
     
     &__card {
+        background-color: #B6D0E2;
+        padding: 1rem;
+        border-radius: 10px;
         display: flex;
         flex-direction: column;
     }
@@ -24,6 +36,7 @@
     }
 
     &__time {
+        padding: 1rem;
         display: flex;
         flex: 1;
     }

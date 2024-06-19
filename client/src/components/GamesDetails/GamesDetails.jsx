@@ -9,9 +9,9 @@ function GamesDetails() {
                 <div className="gameDetails__card">
                     <h3 className="gameDetails__title">Kick-off Time:</h3>
                     <div className="gameDetails__schedule">
-                    <p className="gameDetails__time">CET:</p>
-                    <p className="gameDetails__time">MT:</p>
-                    <p className="gameDetails__time">ET:</p>
+                        <p className="gameDetails__time">CET:</p>
+                        <p className="gameDetails__time">MT:</p>
+                        <p className="gameDetails__time">ET:</p>
                     </div>
                 </div>
             </article>
