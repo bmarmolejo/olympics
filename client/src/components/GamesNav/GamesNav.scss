@@ -1,0 +1,19 @@
+.gameNav {
+    display: flex;
+    flex-direction: column;
+
+    &__container{
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+    }
+
+    &__img{
+        width: 100%;
+        max-width: 5rem;
+        height: 100%;
+    }
+
+    &__title{
+    }
+}
