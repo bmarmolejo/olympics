@@ -1,234 +1,149 @@
 {
-    "UEFA_Euro_2024_Group_Phase": [
+    "matches": [
       {
         "date": "2024-06-19",
-        "matches": [
+        "games": [
           {
-            "home_team": "Finland",
-            "away_team": "Russia",
-            "stadium": "Krestovsky Stadium, Saint Petersburg",
-            "kickoff_time_local": "15:00",
-            "kickoff_time_mt": "06:00",
-            "kickoff_time_et": "08:00"
+            "match": "Croatia vs. Albania",
+            "stadium": "Volksparkstadion, Hamburg",
+            "kickoff_time_CET": "15:00",
+            "kickoff_time_MT": "07:00",
+            "kickoff_time_ET": "09:00"
           },
           {
-            "home_team": "Turkey",
-            "away_team": "Wales",
-            "stadium": "Baku Olympic Stadium, Baku",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "07:00",
-            "kickoff_time_et": "09:00"
+            "match": "Germany vs. Hungary",
+            "stadium": "MHPArena, Stuttgart",
+            "kickoff_time_CET": "18:00",
+            "kickoff_time_MT": "10:00",
+            "kickoff_time_ET": "12:00"
           },
           {
-            "home_team": "Italy",
-            "away_team": "Switzerland",
-            "stadium": "Stadio Olimpico, Rome",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "13:00",
-            "kickoff_time_et": "15:00"
+            "match": "Scotland vs. Switzerland",
+            "stadium": "RheinEnergieStadion, Cologne",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       },
       {
         "date": "2024-06-20",
-        "matches": [
+        "games": [
           {
-            "home_team": "Ukraine",
-            "away_team": "North Macedonia",
-            "stadium": "Arena Națională, Bucharest",
-            "kickoff_time_local": "15:00",
-            "kickoff_time_mt": "06:00",
-            "kickoff_time_et": "08:00"
+            "match": "Slovenia vs. Serbia",
+            "stadium": "Allianz Arena, Munich",
+            "kickoff_time_CET": "15:00",
+            "kickoff_time_MT": "07:00",
+            "kickoff_time_ET": "09:00"
           },
           {
-            "home_team": "Denmark",
-            "away_team": "Belgium",
-            "stadium": "Parken Stadium, Copenhagen",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "10:00",
-            "kickoff_time_et": "12:00"
+            "match": "Denmark vs. England",
+            "stadium": "Waldstadion, Frankfurt",
+            "kickoff_time_CET": "18:00",
+            "kickoff_time_MT": "10:00",
+            "kickoff_time_ET": "12:00"
           },
           {
-            "home_team": "Netherlands",
-            "away_team": "Austria",
-            "stadium": "Johan Cruyff Arena, Amsterdam",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "13:00",
-            "kickoff_time_et": "15:00"
+            "match": "Spain vs. Italy",
+            "stadium": "Arena AufSchalke, Gelsenkirchen",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       },
       {
         "date": "2024-06-21",
-        "matches": [
+        "games": [
           {
-            "home_team": "Sweden",
-            "away_team": "Slovakia",
-            "stadium": "Krestovsky Stadium, Saint Petersburg",
-            "kickoff_time_local": "15:00",
-            "kickoff_time_mt": "06:00",
-            "kickoff_time_et": "08:00"
+            "match": "Poland vs. Austria",
+            "stadium": "Olympiastadion, Berlin",
+            "kickoff_time_CET": "18:00",
+            "kickoff_time_MT": "10:00",
+            "kickoff_time_ET": "12:00"
           },
           {
-            "home_team": "Croatia",
-            "away_team": "Czech Republic",
-            "stadium": "Hampden Park, Glasgow",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "11:00",
-            "kickoff_time_et": "13:00"
-          },
-          {
-            "home_team": "England",
-            "away_team": "Scotland",
-            "stadium": "Wembley Stadium, London",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "14:00",
-            "kickoff_time_et": "16:00"
-          }
-        ]
-      },
-      {
-        "date": "2024-06-22",
-        "matches": [
-          {
-            "home_team": "Hungary",
-            "away_team": "France",
-            "stadium": "Puskás Aréna, Budapest",
-            "kickoff_time_local": "15:00",
-            "kickoff_time_mt": "07:00",
-            "kickoff_time_et": "09:00"
-          },
-          {
-            "home_team": "Portugal",
-            "away_team": "Germany",
-            "stadium": "Allianz Arena, Munich",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "10:00",
-            "kickoff_time_et": "12:00"
-          },
-          {
-            "home_team": "Spain",
-            "away_team": "Poland",
-            "stadium": "San Mamés, Bilbao",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "13:00",
-            "kickoff_time_et": "15:00"
+            "match": "Netherlands vs. France",
+            "stadium": "Red Bull Arena, Leipzig",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       },
       {
         "date": "2024-06-23",
-        "matches": [
+        "games": [
           {
-            "home_team": "Italy",
-            "away_team": "Wales",
-            "stadium": "Stadio Olimpico, Rome",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "10:00",
-            "kickoff_time_et": "12:00"
+            "match": "Switzerland vs. Germany",
+            "stadium": "Waldstadion, Frankfurt",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           },
           {
-            "home_team": "Switzerland",
-            "away_team": "Turkey",
-            "stadium": "Baku Olympic Stadium, Baku",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "07:00",
-            "kickoff_time_et": "09:00"
+            "match": "Scotland vs. Hungary",
+            "stadium": "MHPArena, Stuttgart",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       },
       {
         "date": "2024-06-24",
-        "matches": [
+        "games": [
           {
-            "home_team": "Ukraine",
-            "away_team": "Austria",
-            "stadium": "Arena Națională, Bucharest",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "09:00",
-            "kickoff_time_et": "11:00"
+            "match": "Albania vs. Spain",
+            "stadium": "Merkur Spiel-Arena, Dusseldorf",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           },
           {
-            "home_team": "North Macedonia",
-            "away_team": "Netherlands",
-            "stadium": "Johan Cruyff Arena, Amsterdam",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "10:00",
-            "kickoff_time_et": "12:00"
-          },
-          {
-            "home_team": "Russia",
-            "away_team": "Denmark",
-            "stadium": "Parken Stadium, Copenhagen",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "13:00",
-            "kickoff_time_et": "15:00"
-          },
-          {
-            "home_team": "Finland",
-            "away_team": "Belgium",
-            "stadium": "Krestovsky Stadium, Saint Petersburg",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "12:00",
-            "kickoff_time_et": "14:00"
+            "match": "Croatia vs. Italy",
+            "stadium": "Red Bull Arena, Leipzig",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       },
       {
         "date": "2024-06-25",
-        "matches": [
+        "games": [
           {
-            "home_team": "Czech Republic",
-            "away_team": "England",
-            "stadium": "Wembley Stadium, London",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "14:00",
-            "kickoff_time_et": "16:00"
+            "match": "England vs. Slovenia",
+            "stadium": "RheinEnergieStadion, Cologne",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           },
           {
-            "home_team": "Croatia",
-            "away_team": "Scotland",
-            "stadium": "Hampden Park, Glasgow",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "14:00",
-            "kickoff_time_et": "16:00"
+            "match": "Denmark vs. Serbia",
+            "stadium": "Allianz Arena, Munich",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       },
       {
         "date": "2024-06-26",
-        "matches": [
+        "games": [
           {
-            "home_team": "Slovakia",
-            "away_team": "Spain",
-            "stadium": "San Mamés, Bilbao",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "10:00",
-            "kickoff_time_et": "12:00"
+            "match": "France vs. Poland",
+            "stadium": "Westfalenstadion, Dortmund",
+            "kickoff_time_CET": "18:00",
+            "kickoff_time_MT": "10:00",
+            "kickoff_time_ET": "12:00"
           },
           {
-            "home_team": "Sweden",
-            "away_team": "Poland",
-            "stadium": "Krestovsky Stadium, Saint Petersburg",
-            "kickoff_time_local": "18:00",
-            "kickoff_time_mt": "09:00",
-            "kickoff_time_et": "11:00"
-          },
-          {
-            "home_team": "Germany",
-            "away_team": "Hungary",
-            "stadium": "Allianz Arena, Munich",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "13:00",
-            "kickoff_time_et": "15:00"
-          },
-          {
-            "home_team": "Portugal",
-            "away_team": "France",
-            "stadium": "Puskás Aréna, Budapest",
-            "kickoff_time_local": "21:00",
-            "kickoff_time_mt": "13:00",
-            "kickoff_time_et": "15:00"
+            "match": "Netherlands vs. Austria",
+            "stadium": "Red Bull Arena, Leipzig",
+            "kickoff_time_CET": "21:00",
+            "kickoff_time_MT": "13:00",
+            "kickoff_time_ET": "15:00"
           }
         ]
       }
