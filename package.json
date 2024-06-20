@@ -1,25 +1,22 @@
 {
-  "homepage": "https://bmarmolejo.github.io/eurocup2024",
   "name": "brainflix-pair-programming",
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cors": "^2.8.5",
+    "axios": "^1.7.2",
     "crypto": "^1.0.1",
     "express": "^4.19.2",
     "fs": "^0.0.1-security"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^6.1.1"
   }
 }
