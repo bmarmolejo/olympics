@@ -1,16 +1,14 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
 import Header from './components/Header/Header';
-import GamesNav from './components/GamesNav/GamesNav';
 
 const Layout = ({ matchData }) => {
   return (
     <>
       <Header />
       <main>
-        <Outlet />
+        <Outlet context={{ matchData }} />
       </main>
-      <GamesNav matchData={matchData} />
     </>
   );
 };

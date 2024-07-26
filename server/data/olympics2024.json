@@ -1,0 +1,116 @@
+{
+  "Olympics2024": {
+    "July22": [
+      {
+        "date": "July 22",
+        "sport": "No events",
+        "time_local": "",
+        "time_et": "",
+        "event": "Today's schedule: No events."
+      }
+    ],
+    "July23": [
+      {
+        "date": "July 23",
+        "sport": "No events",
+        "time_local": "",
+        "time_et": "",
+        "event": "Today's schedule: No events."
+      }
+    ],
+    "July24": [
+      {
+        "date": "July 24",
+        "sport": "Football",
+        "time_local": "15:00",
+        "time_et": "09:00",
+        "event": "Group Stage",
+        "teams": "Uzbekistan vs Spain"
+      },
+      {
+        "date": "July 24",
+        "sport": "Football",
+        "time_local": "17:00",
+        "time_et": "11:00",
+        "event": "Group Stage",
+        "teams": "Egypt vs Dominican Republic"
+      }
+    ],
+    "July25": [
+      {
+        "date": "July 25",
+        "sport": "Basketball",
+        "time_local": "09:00",
+        "time_et": "03:00",
+        "event": "Group Stage",
+        "teams": "USA vs Spain"
+      },
+      {
+        "date": "July 25",
+        "sport": "Table Tennis",
+        "time_local": "15:00",
+        "time_et": "09:00",
+        "event": "Regular Competition"
+      }
+    ],
+    "July26": [
+      {
+        "date": "July 26",
+        "sport": "Rowing",
+        "time_local": "08:00",
+        "time_et": "02:00",
+        "event": "Regular Competition"
+      },
+      {
+        "date": "July 26",
+        "sport": "Handball",
+        "time_local": "14:00",
+        "time_et": "08:00",
+        "event": "Group Stage",
+        "teams": "Germany vs Sweden"
+      },
+      {
+        "date": "July 26",
+        "sport": "Opening Ceremony",
+        "time_local": "20:00",
+        "time_et": "14:00",
+        "event": "Ceremony"
+      }
+    ],
+    "July27": [
+      {
+        "date": "July 27",
+        "sport": "Football",
+        "time_local": "15:00",
+        "time_et": "09:00",
+        "event": "Group Stage",
+        "teams": "Dominican Republic vs Spain"
+      },
+      {
+        "date": "July 27",
+        "sport": "Handball",
+        "time_local": "09:00",
+        "time_et": "03:00",
+        "event": "Group Stage",
+        "teams": "Spain vs Slovenia"
+      }
+    ],
+    "July28": [
+      {
+        "date": "July 28",
+        "sport": "Gymnastics",
+        "time_local": "10:00",
+        "time_et": "04:00",
+        "event": "Regular Competition"
+      },
+      {
+        "date": "July 28",
+        "sport": "Football",
+        "time_local": "16:00",
+        "time_et": "10:00",
+        "event": "Group Stage",
+        "teams": "Argentina vs Italy"
+      }
+    ]
+  }
+}
